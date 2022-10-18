@@ -1,0 +1,18 @@
+.hero {
+  width: 100%;
+  overflow: hidden;
+}
+.navbar-nav a {
+  font-size: 18px;
+}
+
+/* .card .image {
+  height: 200px;
+  overflow: hidden;
+}
+.card .image img {
+  background-image: cover;
+} */
+.card.ProductDetails .image {
+  height: fit-content;
+}
